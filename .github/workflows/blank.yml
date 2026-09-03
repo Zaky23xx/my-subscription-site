@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m "Initial commit"
+git commit -m "Initial commit: RTL Arabic subscription landing page"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/my-subscription-site.git
+git remote add origin https://github.com/zaky23xx/my-subscription-site.git
 git push -u origin main
